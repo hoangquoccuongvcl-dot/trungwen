@@ -1,0 +1,8 @@
+flask==3.0.0
+flask-cors==4.0.0
+groq==0.11.0
+pypinyin==0.51.0
+opencc-python-reimplemented==0.1.7
+edge-tts==6.1.10
+gunicorn==22.0.0
+requests==2.32.3

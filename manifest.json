@@ -1,0 +1,27 @@
+{
+  "name": "當代中文 PRO",
+  "short_name": "當代中文",
+  "description": "Trình nghe và học tiếng Trung với AI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0e1a",
+  "theme_color": "#ea580c",
+  "lang": "vi",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='110' fill='%23ea580c'/><text x='256' y='370' font-size='320' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'>當</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Focus Mode",
+      "short_name": "Focus",
+      "url": "./index.html?focus=1"
+    }
+  ]
+}
