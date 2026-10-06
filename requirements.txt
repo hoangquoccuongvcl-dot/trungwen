@@ -6,3 +6,4 @@ opencc-python-reimplemented==0.1.7
 edge-tts==6.1.10
 gunicorn==22.0.0
 requests==2.32.3
+jieba==0.42.1
